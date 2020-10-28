@@ -1,0 +1,14 @@
+accommodation\CompanyApplication.class
+accommodation\Company.class
+accommodation\CompanyController.class
+accommodation\PolicyHandler.class
+accommodation\AbstractEvent$1.class
+accommodation\external\CompanyManagement.class
+accommodation\CompanyRepository.class
+accommodation\AbstractEvent.class
+accommodation\external\CompanyManagementService.class
+accommodation\CompanyRegistRequested.class
+accommodation\RegistCanceled.class
+accommodation\config\kafka\KafkaProcessor.class
+accommodation\CompayRegisted.class
+accommodation\CompayCanced.class
