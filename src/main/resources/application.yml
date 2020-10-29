@@ -67,4 +67,4 @@ spring:
           contentType: application/json
 api:
   room:
-    url: http://room:8080
+    url: cofigurl #http://room:8080
