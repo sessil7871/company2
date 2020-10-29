@@ -69,10 +69,6 @@ api:
   room:
     url: cofigurl #http://room:8080
 
-feign:
-  hystrix:
-    enabled: true
-
 # To set thread isolation to SEMAPHORE
 #hystrix:
 #  command:
